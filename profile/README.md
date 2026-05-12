@@ -1,17 +1,67 @@
-The engine will be public and open source after release.
+# Igdrasil Project
 
+Ecosystem of projects built around **IgdrasilEngine**, focused on graphics, simulations, tools, and experimental systems.
 
-Temporary Documentation: 
-- [Igdrasil-Engine](https://igdrasil-engine.github.io/Igdrasil-Engine/)
+The project combines engine development with research-oriented and practical applications, including:
 
+* rendering systems
+* GPU computing
+* simulation frameworks
+* procedural generation
+* developer tools
+* games and interactive applications
+* experimental computational architectures
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 🚀 Core Technology — IgdrasilEngine
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**IgdrasilEngine** is a modular engine designed around extensibility, GPU workflows, and scalable systems architecture.
+
+Main areas:
+
+* rendering pipeline
+* ECS architecture
+* scene systems
+* resource management
+* compute shader workflows
+* simulation integration
+
+Technologies:
+
+* C#
+* OpenGL
+* Vulkan (WIP)
+* OpenCL
+* Compute Shaders
+
+---
+
+## 🔬 Experimental & Research Areas
+
+Projects inside the ecosystem also explore:
+
+* path tracing
+* raymarching
+* fluid simulation
+* relativistic gravity simulation
+* procedural planet generation
+* predictive coding architectures
+* GPU-accelerated systems
+
+---
+
+## 📚 Documentation
+
+Temporary documentation:
+👉 https://igdrasil-engine.github.io/Igdrasil-Engine/
+
+Additional documentation, tools, and repositories will become public over time.
+
+---
+
+## 📌 Status
+
+The ecosystem is currently in active development.
+
+Some repositories remain private while architecture, tooling, and documentation are being stabilized before wider public release.

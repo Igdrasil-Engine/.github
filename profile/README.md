@@ -1,6 +1,6 @@
+The engine will be public and open source after release.
 Temporary Documentation: 
 - [Igdrasil-Engine](https://igdrasil-engine.github.io/Igdrasil-Engine/)
-
 
 
 <!--
